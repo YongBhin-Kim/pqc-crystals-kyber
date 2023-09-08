@@ -1,0 +1,15 @@
+Compile : make
+
+Run : ./pke
+
+File :
+ * pke : Indcpa public key encryption
+ * print : Print all state (array, polynomial, vector, matrix)
+ * params.h : Declare kyber parameter sets
+ * symmetric : SHAKE-128 (XOF), SHAKE-256(PRF)
+ * rng : AES256-CTR-DRBG : Get uniformly random byte array
+ * poly : Kyber polynomial functions
+ * polyvec : Kyber polynomial vector functions
+ * reduce : Modulo reduction with Kyber prime 'Q'
+ * fips202 : SHA3-256, SHA3-512
+ * cbd : Given an array of uniformly random bytes, compute polynomial with coefficients distributed according to a centered binomial distribution with paramter eta
