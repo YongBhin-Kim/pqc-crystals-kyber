@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "module_lwe_example.h": "c",
+        "rlwe_example.h": "c"
+    }
+}
