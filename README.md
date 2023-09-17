@@ -1,5 +1,5 @@
 # pqc-crystals-kyber
-My implementations of NIST PQC(Post-Quantom Cryptography) competition finalist Crystals-Kyber
+My implementations of NIST PQC(Post-Quantom Cryptography) competition PKE/KEM finalist Crystals-Kyber
 
 **1. lattice-based-crypto** <br>
 Crystals-Kyber에 사용되는 격자 기반에 관한 구현 <br>
