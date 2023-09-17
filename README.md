@@ -2,7 +2,7 @@
 My implementations of NIST PQC(Post-Quantom Cryptography) competition finalist Crystals-Kyber
 
 **1. lattice-based-crypto** <br>
-crystals-kyber에 사용되는 격자 기반에 관한 구현 <br>
+Crystals-Kyber에 사용되는 격자 기반에 관한 구현 <br>
 컴파일 & 빌드 방법 <br>
 ```
 $ make
